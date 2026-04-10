@@ -8,6 +8,7 @@ Decision treemerupakan salah satu teknik machine learning yang paling banyak dit
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f3bbad29-fe96-41f9-b8de-3c25c68f805a" />
 
 
+
 2. Tampilan ini merupakan tampilan Variabel yang berfungsi untuk mengetahui perhitungan Variabel.
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/63058743-caf9-4f9d-a20b-aa93fbe6ab91" />
 
